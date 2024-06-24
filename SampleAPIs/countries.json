@@ -2,6 +2,7 @@
   "countries": [
     {
       "name": "Afghanistan",
+      "flag": "https://restcountries.com/v3.1/data/afg.svg",
       "currency": "AFN",
       "population": 38928341,
       "continent": "Asia",
@@ -9,6 +10,7 @@
     },
     {
       "name": "Albania",
+      "flag": "https://restcountries.com/v3.1/data/alb.svg",
       "currency": "ALL",
       "population": 2877797,
       "continent": "Europe",
@@ -16,6 +18,7 @@
     },
     {
       "name": "Algeria",
+      "flag": "https://restcountries.com/v3.1/data/dza.svg",
       "currency": "DZD",
       "population": 43851044,
       "continent": "Africa",
@@ -23,6 +26,7 @@
     },
     {
       "name": "Andorra",
+      "flag": "https://restcountries.com/v3.1/data/and.svg",
       "currency": "EUR",
       "population": 77265,
       "continent": "Europe",
@@ -44,6 +48,7 @@
     },
     {
       "name": "Argentina",
+      "flag": "https://restcountries.com/v3.1/data/and.svg",
       "currency": "ARS",
       "population": 45195774,
       "continent": "South America",
@@ -51,6 +56,7 @@
     },
     {
       "name": "Armenia",
+      "flag": "https://restcountries.com/v3.1/data/and.svg",
       "currency": "AMD",
       "population": 2963243,
       "continent": "Asia",
